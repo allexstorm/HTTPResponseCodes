@@ -1,5 +1,5 @@
 # HTTPResponseCodes
-This app checks websites availability and also get http code response if server is available.
+This app checks websites availability and also get http response code of the page if server is available.
 
 Put list of sites in inputList file, run app and get result in resultList file.
 
